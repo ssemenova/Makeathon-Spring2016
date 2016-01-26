@@ -1,0 +1,39 @@
+.btn-primary {
+  background-color: transparent;
+  border-width: 5px;
+  border-style: solid;
+  -webkit-border-image:
+    -webkit-gradient(linear, 100% 0, 0 0, from(rgb(228,0,121)), to(rgb(139, 31, 130))) 1 100%;
+  -webkit-border-image:
+    -webkit-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  -moz-border-image:
+    -moz-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  -o-border-image:
+    -o-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  border-image:
+    linear-gradient(to right, rgb(228,0,121), rgb(139, 31, 130) 100%);
+    border-image-slice: 1;
+  color: rgb(228, 0, 121);
+}
+
+.btn-primary:hover {
+  background: rgba(248,80,50,1);
+  border-width: 5px;
+  border-style: solid;
+  background:
+    -webkit-gradient(linear, 100% 0, 0 0, from(rgb(228,0,121)), to(rgb(139, 31, 130))) 1 100%;
+  background:
+    -webkit-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    -moz-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    -o-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    linear-gradient(to right, rgb(228,0,121), rgb(139, 31, 130) 100%);
+    border-image-slice: 1;
+  color: white;
+}
+
+#banner-wrapper a {
+  font-family: 'Open Sans', sans-serif;
+}
