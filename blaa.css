@@ -47,3 +47,69 @@
 #banner {
   padding: 0px;
 }
+
+.jumbotron {
+  background-color: transparent;
+  border-width: 5px;
+  border-style: solid;
+  -webkit-border-image:
+    -webkit-gradient(linear, 100% 0, 0 0, from(rgb(228,0,121)), to(rgb(139, 31, 130))) 1 100%;
+  -webkit-border-image:
+    -webkit-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  -moz-border-image:
+    -moz-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  -o-border-image:
+    -o-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  border-image:
+    linear-gradient(to right, rgb(228,0,121), rgb(139, 31, 130) 100%);
+    border-image-slice: 1;
+  color: rgb(228, 0, 121);
+}
+
+.customHFOUR p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#footer {
+  background: rgba(248,80,50,1);
+  background:
+    -webkit-gradient(linear, 100% 0, 0 0, from(rgb(228,0,121)), to(rgb(139, 31, 130))) 1 100%;
+  background:
+    -webkit-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    -moz-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    -o-linear-gradient(right, rgb(228,0,121), rgb(139, 31, 130)) 1 100%;
+  background:
+    linear-gradient(to right, rgb(228,0,121), rgb(139, 31, 130) 100%);
+    border-image-slice: 1;
+  margin: 0px;
+  width: 100%;
+  padding: 5em;
+  color: white;
+}
+
+#footer h2 {
+  color: white;
+}
+
+#footer p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.75em;
+}
+
+#footer a {
+  border: 2px solid white;
+  padding: 5px;
+}
+
+#footer a:hover {
+  text-decoration: none;
+  color: rgb(228, 0, 121);
+  background-color: white;
+}

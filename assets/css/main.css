@@ -7,7 +7,7 @@
 */
 
 .customDIVONE {
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #6b7770;
@@ -15,7 +15,7 @@
 }
 
 .customHFOUR {
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	color: #6b7770;
 	margin: 0 0 0.5em 0;
@@ -29,13 +29,13 @@
 }
 
 .customP {
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
 	color: #6b7770;
 }
 
 .customHTWO{
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.3em;
 }
 
@@ -1142,7 +1142,7 @@
 	}
 
 	h1, h2, h3, h5, h6 {
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #6b7770;
@@ -1154,7 +1154,7 @@
 	}
 
 	h2.major {
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		position: relative;
 		border-top: solid 5px #e7eae8;
 	}
@@ -1227,7 +1227,7 @@
 
 	header > p {
 		display: block;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #c1cac5;
@@ -1294,7 +1294,7 @@
 	.button {
 		-webkit-appearance: none;
 		display: inline-block;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
@@ -1556,7 +1556,7 @@
 	form label {
 		display: block;
 		margin: 0 0 1em 0;
-		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #6b7770;
@@ -1645,7 +1645,7 @@
 				text-align: left;
 				padding: 0.5em 1em 0.5em 1em;
 				margin: 0 0 1em 0;
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Open Sans', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
 				color: #6b7770;
@@ -1717,7 +1717,6 @@
 
 		#banner h2 {
 			color: rgb(228, 0 ,121);
-			font-family: 'Droid Serif', serif;
 		}
 
 		#banner p {
@@ -1858,7 +1857,7 @@
 
 			.box.feature {
 				text-align: center;
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Open Sans', sans-serif;
 			}
 
 			.box.post header {
@@ -1951,7 +1950,7 @@
 			#header {
 				text-align: center;
 				font-size: 2em;
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Open Sans', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
 				padding: 5em 0 2em 0;
@@ -1995,7 +1994,7 @@
 				height: 3.25em;
 				line-height: 3.25em;
 				text-align: center;
-				font-family: 'Open Sans Condensed', sans-serif;
+				Open Sans: 'Open Sans', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
 				cursor: default;
@@ -2063,7 +2062,7 @@
 				border-radius: 6px;
 				line-height: 2.75em;
 				text-align: center;
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Open Sans', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
 				padding: 1em 0;
@@ -2547,7 +2546,7 @@
 				#titleBar .title {
 					display: block;
 					position: relative;
-					font-family: 'Open Sans Condensed', sans-serif;
+					font-family: 'Open Sans', sans-serif;
 					font-weight: 700;
 					text-transform: uppercase;
 					font-size: 1.25em;
@@ -2619,7 +2618,7 @@
 				background-image: url("images/overlay.png"), linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% 100%;
-				font-family: 'Open Sans Condensed', sans-serif;
+				font-family: 'Open Sans', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
 				font-size: 1.25em;
