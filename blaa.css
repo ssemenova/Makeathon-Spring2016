@@ -36,4 +36,14 @@
 
 #banner-wrapper a {
   font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+#banner-wrapper h2 {
+  font-family: 'Arvo', sans-serif;
+}
+
+#banner {
+  padding: 0px;
 }

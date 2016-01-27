@@ -1,5 +1,4 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Open+Sans+Condensed:700");
 
 /*
 	TXT by HTML5 UP
@@ -1696,8 +1695,8 @@
 		position: relative;
 		background-color: white;
 		background-image: url("images/overlay.png"), url("images/highlight.png");
-		background-position: top left, center center;
-		background-size: auto, 100% 250%;
+		vertical-align: bottom;
+		background-size: auto, auto;
 		background-repeat: repeat, no-repeat;
 		text-align: center;
 		margin: 0;
@@ -1718,7 +1717,7 @@
 
 		#banner h2 {
 			color: rgb(228, 0 ,121);
-			font-family: 'Bitter', serif;
+			font-family: 'Droid Serif', serif;
 		}
 
 		#banner p {
@@ -2118,8 +2117,8 @@
 			}
 
 				#banner h2 {
-					font-size: 3em;
-					margin: 0 0 0.75em 0;
+					font-size: 5em;
+					margin: 0 0 0.3em 0;
 				}
 
 				#banner p {
@@ -2203,7 +2202,7 @@
 
 
 				#banner h2 {
-					margin: 0 0 0.65em 0;
+					margin: 0 0 0.15em 0;
 				}
 
 				#banner p {
@@ -2471,13 +2470,13 @@
 			}
 
 				#banner h2 {
-					font-size: 2.25em;
+					font-size: 3em;
 					line-height: 1.25em;
-					margin: 0 0 0.5em 0;
+					margin: 0 0 0.15em 0;
 				}
 
 				#banner p {
-					margin: 0 0 0.5em 0;
+					margin: 0 0 2em 0;
 				}
 
 		/* Main */
